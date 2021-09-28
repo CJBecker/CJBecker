@@ -1,6 +1,6 @@
 ## Hi, I’m @CJBecker <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-My name is Chris, but my friends call me CJ. I am currently a full time DevOps Engineer part time Devloper with a love for the game.
+My name is Chris, but my friends call me CJ. I am currently a full time DevOps Engineer part time Developer with a love for the game.
 
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here: 
